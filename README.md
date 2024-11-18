@@ -109,30 +109,8 @@ I'm a passionate computer science student and tech enthusiast focused on develop
 
 [Previous sections remain the same until GitHub Stats]
 
-## 📈 GitHub Stats & Contributions
 
-<div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-### Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Weekly Development Breakdown
-
-```text
-Python       █████████████░░░░░░░░   45.20%
-JavaScript   ████████░░░░░░░░░░░░░   30.15%
-Java         ████░░░░░░░░░░░░░░░░░   15.45%
-HTML/CSS     ███░░░░░░░░░░░░░░░░░░   09.20%
-```
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
