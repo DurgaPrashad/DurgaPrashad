@@ -5,18 +5,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-*Building innovative technologies that make a difference* 🚀
+*Innovating for Impact: Building Technology Solutions that Matter* 🚀
 
 </div>
 
 ## 🚀 About Me
-I'm a passionate computer science student and tech enthusiast focused on developing innovative solutions. Currently building ProInternz and Proverse while exploring the realms of AI, ML, and cloud technologies.
+I'm a passionate computer science student and tech enthusiast focused on developing innovative solutions that bridge technology gaps. From connecting students to opportunities through ProInternz to tracking critical vulnerabilities with ProExtract, I'm dedicated to creating impactful technology solutions.
 
 ## 🏆 Achievements
 - 🏅 Winner at NASA Space Apps Challenge
 - 🎯 Winner at Smart India Hackathon
-- 💡 Founded ProInternz - Student Internship Platform
+- 💡 Founded ProInternz - Connecting 1000+ Students to Opportunities
 - 🌍 Developing Proverse - Community Mapping System
+- 🛡️ Created ProExtract - Advanced Vulnerability Tracking System
 
 ## 💻 Tech Stack
 
@@ -33,45 +34,78 @@ I'm a passionate computer science student and tech enthusiast focused on develop
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### AI & Machine Learning 🤖
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Cloud Services ☁️
+### Cloud & DevOps ☁️
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### Database 🗄️
+### Database & Tools 🛠️
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools 🛠️
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-### ProInternz
+### 1. ProInternz Platform
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-> A platform connecting students with internship opportunities and industry professionals
+> A comprehensive internship and collaboration platform connecting students with industry professionals
+- 🎯 Virtual internships in Web Dev, App Dev, ML, and Data Science
+- 👥 Professional networking and mentorship opportunities
+- 🏆 ProCoding contests and IdeaPro challenges
+- 📜 E-certificates for internship completion
 
-### Proverse
+### 2. ProExtract - Vulnerability Tracker
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
-> Community mapping system using GIS, AI, and ML technologies
+> Advanced vulnerability tracking system for OEM IT and OT equipment
+- 🔍 Automated web scraping of security advisories
+- ⚠️ Critical and high severity vulnerability tracking
+- 📊 Comprehensive vulnerability management
+- 🔔 Real-time alerts and notifications
+- 📑 Automated reporting system
 
-### PROMER INNOVATORS
+### 3. Proverse - Community Mapping
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+> AI/ML-powered community mapping system
+- 🗺️ GIS integration with Leaflet.js
+- 🌦️ Real-time weather data integration
+- 🎤 Voice recognition capabilities
+- 📊 Data-driven community insights
+- 🏙️ Urban planning and traffic management
+
+### 4. ProMult - Amazon MCF Integration
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
+> Platform connecting small businesses with Amazon's Multi-Channel Fulfillment
+- 🔄 Amazon MCF API integration
+- 📦 Multi-channel order fulfillment
+- ⚡ Scalable backend architecture
+- 🛍️ Support for multiple sales channels
+
+### 5. Prodo - Document Processing
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+> Real-time document translation and processing system
+- 🗣️ Speech-to-text functionality
+- 📄 Multi-format document processing
+- 🌐 Multi-language support
+- ⚡ Real-time translation capabilities
+
+### 6. Object Detector
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)
-> Smart India Hackathon winning project
-
-</div>
+> Advanced computer vision project for object detection
+- 🔍 Real-time object detection
+- 🎯 Multiple object classification
+- 📊 Integration with popular ML frameworks
+- 🔄 Support for various input sources
 
 ## 📈 GitHub Stats
 
@@ -84,10 +118,10 @@ I'm a passionate computer science student and tech enthusiast focused on develop
 </div>
 
 ## 🎯 Future Goals
-- 🏢 Build innovative technologies for societal impact
-- 💡 Make technology accessible to small businesses and students
-- 🌟 Join top MNCs (Amazon, Microsoft, Google, Accenture)
-- 🚀 Scale up entrepreneurial ventures
+- 🏢 Scale projects for broader social impact
+- 💡 Innovate in cybersecurity and AI
+- 🌟 Join leading tech companies
+- 🚀 Expand entrepreneurial ventures
 
 ## 📫 Connect With Me
 
