@@ -13,11 +13,13 @@
 I'm a passionate computer science student and tech enthusiast focused on developing innovative solutions that bridge technology gaps. From connecting students to opportunities through ProInternz to tracking critical vulnerabilities with ProExtract, I'm dedicated to creating impactful technology solutions.
 
 ## 🏆 Achievements
-- 🏅 Winner at NASA Space Apps Challenge
-- 🎯 Winner at Smart India Hackathon
-- 💡 Founded ProInternz - Connecting 1000+ Students to Opportunities
-- 🌍 Developing Proverse - Community Mapping System
-- 🛡️ Created ProExtract - Advanced Vulnerability Tracking System
+- 🏅 Winner at NASA Space Apps Challenge (Local Impact)
+- 🎯 Grand Finalist at Smart India Hackathon
+- 💡 Founded ProInternz - Connecting Students to Opportunities
+- 🌍 Created Proverse - Community Mapping System
+- 👀 Created Pro-gect Object Detection Model
+- 🛡️ Developing ProExtract - Advanced Vulnerability Tracking System
+- </> Project in Full stack Development & ( Java , python , c++ )
 
 ## 💻 Tech Stack
 
@@ -118,7 +120,7 @@ I'm a passionate computer science student and tech enthusiast focused on develop
 
 ## 🎯 Future Goals
 - 🏢 Scale projects for broader social impact
-- 💡 Innovate in cybersecurity and AI
+- 💡 Innovate in cybersecurity and AI & Ml
 - 🌟 Join leading tech companies
 - 🚀 Expand entrepreneurial ventures
 
@@ -126,10 +128,7 @@ I'm a passionate computer science student and tech enthusiast focused on develop
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+
 
 </div>
 
