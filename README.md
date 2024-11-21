@@ -93,7 +93,7 @@ I'm a passionate computer science student and tech enthusiast focused on develop
 - ⚡ Scalable backend architecture
 - 🛍️ Support for multiple sales channels
 
-### 5. Prodo - Document Processing
+### 5. Pro-translation - Document Processing
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 > Real-time document translation and processing system
 - 🗣️ Speech-to-text functionality
