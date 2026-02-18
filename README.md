@@ -1,13 +1,11 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  SETUP: Upload these 4 files to your repo before this renders   ║
-  ║  Repo: github.com/DurgaPrashad/DurgaPrashad                     ║
-  ║  Folder: /assets/                                               ║
-  ║    → nasa.png   (the NASA meatball logo)                        ║
-  ║    → isro.png   (the ISRO logo)                                 ║
-  ║    → dpiit.png  (the DPIIT recognized badge)                    ║
-  ║    → sih.png    (the SIH brain-bulb logo)                       ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  SETUP: Upload 4 logo images to your repo before this renders perfectly.
+  Repo : github.com/DurgaPrashad/DurgaPrashad
+  Folder: /assets/
+    → nasa.png   (NASA meatball logo)
+    → isro.png   (ISRO logo)
+    → dpiit.png  (DPIIT recognized badge)
+    → sih.png    (SIH brain-bulb logo)
 -->
 
 <div align="center">
@@ -42,29 +40,33 @@
 <tr>
 
 <td align="center" width="24%" style="border:1.5px solid #30a46c; border-radius:10px; padding:18px 10px">
-<img src="https://tse4.mm.bing.net/th/id/OIP.zFVHNGDyixMma2OGtZo94QAAAA?w=260&h=218&rs=1&pid=ImgDetMain&o=7&rm=3" width="68" alt="NASA"/><br/><br/>
-<b><code style="color:#4ade80">🥇 NASA Space Apps</code></b><br/>
-<b>Challenge — Winner</b><br/>
+<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/nasa.png" width="68" alt="NASA"
+  onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png'"/><br/><br/>
+<b>🥇 NASA Space Apps Challenge</b><br/>
+<b>Winner</b><br/>
 <sub>Local Impact Category · 2024</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="62" alt="SIH"/><br/><br/>
-<b><code style="color:#60a5fa">🎯 Smart India Hackathon</code></b><br/>
+<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/sih.png" width="62" alt="SIH"
+  onerror="this.src='https://iic.iitbhilai.ac.in/images/SIH2.png'"/><br/><br/>
+<b>🎯 Smart India Hackathon</b><br/>
 <b>Grand Finalist</b><br/>
 <sub>MoE Govt. of India · 2023</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
-<img src="https://network.impactweaver.com/assets/stIndia-BSgmyUJb.png" width="64" alt="DPIIT"/><br/><br/>
-<b><code style="color:#f87171">🇮🇳 DPIIT Startup India</code></b><br/>
+<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/dpiit.png" width="64" alt="DPIIT"
+  onerror="this.src='https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/80px-Flag_of_India.svg.png'"/><br/><br/>
+<b>🇮🇳 DPIIT Startup India</b><br/>
 <b>Recognized Startup</b><br/>
 <sub>Webdpro Solutions Pvt. Ltd.</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #fb923c; border-radius:10px; padding:18px 10px">
-<img src="https://tse4.mm.bing.net/th/id/OIP.s4pyPPF0-AMNR3abt4FitgHaHK?w=2500&h=2417&rs=1&pid=ImgDetMain&o=7&rm=3" width="62" alt="ISRO"/><br/><br/>
-<b><code style="color:#fb923c">🛰️ ISRO Bharatiya Antariksh</code></b><br/>
+<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/isro.png" width="62" alt="ISRO"
+  onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Indian_Space_Research_Organisation_Logo.svg/160px-Indian_Space_Research_Organisation_Logo.svg.png'"/><br/><br/>
+<b>🛰️ ISRO Bharatiya Antariksh</b><br/>
 <b>Hackathon Participant</b><br/>
 <sub>Space Technology · 2024 & 2025</sub>
 </td>
@@ -74,28 +76,29 @@
 
 <td align="center" style="border:1.5px solid #30a46c; border-radius:10px; padding:18px 10px">
 <img src="https://skillicons.dev/icons?i=gcp" width="52" alt="Google Cloud"/><br/><br/>
-<b><code style="color:#4ade80">🌐 Google Cloud Agentic AI</code></b><br/>
+<b>🌐 Google Cloud Agentic AI</b><br/>
 <b>Hackathon Participant</b><br/>
 <sub>Guinness World Record · 2025</sub>
 </td>
 
 <td align="center" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
 <img src="https://skillicons.dev/icons?i=azure" width="52" alt="Azure"/><br/><br/>
-<b><code style="color:#60a5fa">⚡ Microsoft Azure & Git</code></b><br/>
+<b>⚡ Microsoft Azure & Git</b><br/>
 <b>Hackathon 2023</b><br/>
 <sub>Earned GitHub Copilot Access</sub>
 </td>
 
 <td align="center" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
-<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="52" alt="GitHub"/><br/><br/>
-<b><code style="color:#f87171">🧑‍⚖️ SIH Evaluator 2025</code></b><br/>
+<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/sih.png" width="52" alt="SIH"
+  onerror="this.src='https://iic.iitbhilai.ac.in/images/SIH2.png'"/><br/><br/>
+<b>🧑‍⚖️ SIH Evaluator 2025</b><br/>
 <b>Evaluator & Mentor</b><br/>
 <sub>Assessed Student Teams</sub>
 </td>
 
 <td align="center" style="border:1.5px solid #fb923c; border-radius:10px; padding:18px 10px">
 <img src="https://skillicons.dev/icons?i=gcp" width="52" alt="Google Cloud"/><br/><br/>
-<b><code style="color:#fb923c">☁️ Google Cloud Facilitator</code></b><br/>
+<b>☁️ Google Cloud Facilitator</b><br/>
 <b>Student Workshops</b><br/>
 <sub>Cloud Technologies · 2022–Present</sub>
 </td>
@@ -153,110 +156,110 @@ Open To      :  Collaborations · Hackathons · Open Source
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" style="border:1.5px solid #4ade80; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🧬 &nbsp; Yosa — AI Health Risk Prediction
-![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square)
+![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Python%20·%20CatBoost%20·%20React-1e3a2f?style=flat-square&color=064e3b)
+![Stack](https://img.shields.io/badge/Python%20·%20CatBoost%20·%20React-0f172a?style=flat-square)
 
 Analyzes **100,000+ patient records** with CatBoost gradient boosting at **95% accuracy** for diabetes risk. Interactive risk calculators, population dashboards, and AI-generated lifestyle guidance — privacy-first.
 
-[![→ Live Site](https://img.shields.io/badge/%E2%86%92%20yosa--taupe.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=black)](https://yosa-taupe.vercel.app/)
+[![→ yosa-taupe.vercel.app](https://img.shields.io/badge/%E2%86%92%20yosa--taupe.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://yosa-taupe.vercel.app/)
 
 </td>
 
-<td width="50%" valign="top" style="border:1.5px solid #60a5fa; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 💰 &nbsp; Finxan — AI Financial Tech Platform
-![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square)
+![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/React%20·%20Node.js%20·%20MongoDB-1e3a5f?style=flat-square&color=1e3a5f)
+![Stack](https://img.shields.io/badge/React%20·%20Node.js%20·%20MongoDB-0f172a?style=flat-square)
 
-AI-powered platform for financial intelligence — tracking expenses, budget analysis, and spending patterns. **Currently building the Finxan AI Model for tech-driven financial insights.**
+AI-powered platform for financial intelligence — tracking expenses, budget analysis, and spending patterns. **Currently building the Finxan AI Model for tech-driven insights.**
 
-[![→ finxan.com](https://img.shields.io/badge/%E2%86%92%20finxan.com-60a5fa?style=for-the-badge&logo=vercel&logoColor=black)](https://www.finxan.com/)
+[![→ finxan.com](https://img.shields.io/badge/%E2%86%92%20finxan.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://www.finxan.com/)
 
 </td>
 </tr>
 
 <tr>
 
-<td width="50%" valign="top" style="border:1.5px solid #f87171; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🛒 &nbsp; Webdpro AI — Prompt-to-Ecommerce SaaS
-![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square)
+![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/AWS%20Bedrock%20·%20Next.js%20·%20Razorpay-3f1515?style=flat-square&color=3f1515)
+![Stack](https://img.shields.io/badge/AWS%20Bedrock%20·%20Next.js%20·%20Razorpay-0f172a?style=flat-square)
 
 Turns a natural language business idea into a **fully deployed online store in minutes** — AI handles design, images, inventory, payments, delivery, and analytics on serverless AWS.
 
 </td>
 
-<td width="50%" valign="top" style="border:1.5px solid #fb923c; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🌍 &nbsp; PROGALIX — Satellite Air Quality Monitor
-![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square)
+![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Python%20·%20ML%20·%20NASA%20TEMPO-3f2200?style=flat-square&color=3f2200)
+![Stack](https://img.shields.io/badge/Python%20·%20ML%20·%20NASA%20TEMPO%20·%20GIS-0f172a?style=flat-square)
 
 Advanced air quality intelligence powered by **NASA TEMPO satellite data**, live weather feeds, and ML models predicting regional air safety.
 
-[![→ progalix.earth](https://img.shields.io/badge/%E2%86%92%20progalix.earth-fb923c?style=for-the-badge&logo=vercel&logoColor=black)](https://www.progalix.earth/)
+[![→ progalix.earth](https://img.shields.io/badge/%E2%86%92%20progalix.earth-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://www.progalix.earth/)
 
 </td>
 </tr>
 
 <tr>
 
-<td width="50%" valign="top" style="border:1.5px solid #a78bfa; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🎓 &nbsp; ProInternz — Internship Platform
-![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-38BDF8?style=flat-square)
+![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/MERN%20·%20Node.js%20·%20MongoDB-1e1040?style=flat-square&color=1e1040)
+![Stack](https://img.shields.io/badge/MERN%20·%20Node.js%20·%20MongoDB-0f172a?style=flat-square)
 
 Connects students to virtual internships across Web Dev, ML, and Data Science. Hosts coding contests, idea challenges, and issues verifiable e-certificates.
 
-[![→ prointernz-ai.vercel.app](https://img.shields.io/badge/%E2%86%92%20prointernz--ai.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=black)](https://prointernz-ai.vercel.app/)
+[![→ prointernz-ai.vercel.app](https://img.shields.io/badge/%E2%86%92%20prointernz--ai.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://prointernz-ai.vercel.app/)
 
 </td>
 
-<td width="50%" valign="top" style="border:1.5px solid #4ade80; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 📦 &nbsp; ProMult — Amazon MCF Integration
-![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-38BDF8?style=flat-square)
+![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Node.js%20·%20Amazon%20MCF%20API%20·%20React-1e3a2f?style=flat-square&color=064e3b)
+![Stack](https://img.shields.io/badge/Node.js%20·%20Amazon%20MCF%20API%20·%20React-0f172a?style=flat-square)
 
 Plugs small businesses into Amazon's Multi-Channel Fulfillment. Full MCF API integration with real-time multi-channel order management and scalable backend.
 
-[![→ GitHub](https://img.shields.io/badge/%E2%86%92%20View%20on%20GitHub-4ade80?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DurgaPrashad/Amazon--Promult)
+[![→ GitHub](https://img.shields.io/badge/%E2%86%92%20View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad/Amazon--Promult)
 
 </td>
 </tr>
 
 <tr>
 
-<td width="50%" valign="top" style="border:1.5px solid #60a5fa; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🛡️ &nbsp; ProExtract — Vulnerability Tracker
-![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-38BDF8?style=flat-square)
+![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Python%20·%20Selenium%20·%20Flask-1e3a5f?style=flat-square&color=1e3a5f)
+![Stack](https://img.shields.io/badge/Python%20·%20Selenium%20·%20Flask%20·%20MongoDB-0f172a?style=flat-square)
 
 Automated CVE tracking for OEM IT/OT equipment. Scrapes security advisories, classifies critical CVEs, delivers real-time alerts and structured security reports.
 
-[![→ GitHub](https://img.shields.io/badge/%E2%86%92%20View%20on%20GitHub-60a5fa?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DurgaPrashad/proExtract)
+[![→ GitHub](https://img.shields.io/badge/%E2%86%92%20View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad/proExtract)
 
 </td>
 
-<td width="50%" valign="top" style="border:1.5px solid #f87171; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🗺️ &nbsp; Proverse — Community Mapping
-![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-38BDF8?style=flat-square)
+![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Python%20·%20Leaflet.js%20·%20GIS%20·%20ML-3f1515?style=flat-square&color=3f1515)
+![Stack](https://img.shields.io/badge/Python%20·%20Leaflet.js%20·%20GIS%20·%20ML-0f172a?style=flat-square)
 
 AI/ML civic platform using GIS for real-time community visualization, voice recognition, and urban planning insights. **NASA Space Apps Challenge recognized.**
 
@@ -265,27 +268,27 @@ AI/ML civic platform using GIS for real-time community visualization, voice reco
 
 <tr>
 
-<td width="50%" valign="top" style="border:1.5px solid #fb923c; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 👁️ &nbsp; Pro-gect — Object Detection Model
-![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-38BDF8?style=flat-square)
+![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Python%20·%20TensorFlow%20·%20OpenCV-3f2200?style=flat-square&color=3f2200)
+![Stack](https://img.shields.io/badge/Python%20·%20TensorFlow%20·%20OpenCV-0f172a?style=flat-square)
 
 Real-time computer vision model for multi-object classification across diverse input sources, integrated with major ML frameworks.
 
-[![→ GitHub](https://img.shields.io/badge/%E2%86%92%20View%20on%20GitHub-fb923c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DurgaPrashad/Progect-detector)
+[![→ GitHub](https://img.shields.io/badge/%E2%86%92%20View%20on%20GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad/Progect-detector)
 
 </td>
 
-<td width="50%" valign="top" style="border:1.5px solid #a78bfa; border-radius:10px; padding:16px">
+<td width="50%" valign="top" style="border:1.5px solid #3b82f6; border-radius:10px; padding:16px">
 
 ### 🌐 &nbsp; ProTranslator — Document Translation
-![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-38BDF8?style=flat-square)
+![COMPLETED](https://img.shields.io/badge/●%20COMPLETED-00C853?style=flat-square&logoColor=white)
 &nbsp;
-![Stack](https://img.shields.io/badge/Python%20·%20NLP%20·%20Flask%20·%20React-1e1040?style=flat-square&color=1e1040)
+![Stack](https://img.shields.io/badge/Python%20·%20NLP%20·%20Flask%20·%20React-0f172a?style=flat-square)
 
-End-to-end document processing engine with speech-to-text input, multi-format file support, and real-time multi-language translation using advanced NLP/ML pipelines.
+End-to-end document processing with speech-to-text input, multi-format file support, and real-time multi-language translation using advanced NLP/ML pipelines.
 
 </td>
 </tr>
@@ -302,9 +305,9 @@ End-to-end document processing engine with speech-to-text input, multi-format fi
 ![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google](https://img.shields.io/badge/Google%20IT%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Atlassian](https://img.shields.io/badge/Agile%20with%20Jira%20–%20Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Agile%20with%20Jira-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce%20CRM%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Coursera](https://img.shields.io/badge/Project%20Management%20–%20UC%20Irvine-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/Project%20Management%20UC%20Irvine-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
 </div>
 
