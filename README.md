@@ -49,21 +49,21 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/sih.png" width="62" alt="SIH"/><br/><br/>
+<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="62" alt="SIH"/><br/><br/>
 <b><code style="color:#60a5fa">🎯 Smart India Hackathon</code></b><br/>
 <b>Grand Finalist</b><br/>
 <sub>MoE Govt. of India · 2023</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
-<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/dpiit.png" width="64" alt="DPIIT"/><br/><br/>
+<img src="https://network.impactweaver.com/assets/stIndia-BSgmyUJb.png" width="64" alt="DPIIT"/><br/><br/>
 <b><code style="color:#f87171">🇮🇳 DPIIT Startup India</code></b><br/>
 <b>Recognized Startup</b><br/>
 <sub>Webdpro Solutions Pvt. Ltd.</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #fb923c; border-radius:10px; padding:18px 10px">
-<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/isro.png" width="62" alt="ISRO"/><br/><br/>
+<img src="https://tse4.mm.bing.net/th/id/OIP.s4pyPPF0-AMNR3abt4FitgHaHK?w=2500&h=2417&rs=1&pid=ImgDetMain&o=7&rm=3" width="62" alt="ISRO"/><br/><br/>
 <b><code style="color:#fb923c">🛰️ ISRO Bharatiya Antariksh</code></b><br/>
 <b>Hackathon Participant</b><br/>
 <sub>Space Technology · 2024 & 2025</sub>
@@ -87,7 +87,7 @@
 </td>
 
 <td align="center" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
-<img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><br/>
+<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="52" alt="GitHub"/><br/><br/>
 <b><code style="color:#f87171">🧑‍⚖️ SIH Evaluator 2025</code></b><br/>
 <b>Evaluator & Mentor</b><br/>
 <sub>Assessed Student Teams</sub>
