@@ -1,27 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pakala%20Durga%20Prashad%20Reddy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entrepreneur%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20Builder&descAlignY=58&descColor=b0b0ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Pakala%20Durga%20Prashad%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%94%A5%20Currently%20building%20Finxan%20%E2%80%94%20AI%20Financial%20Intelligence%20Platform&descAlignY=58&descColor=ffd700&descSize=16" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Entrepreneur+%7C+Full+Stack+Engineer+%7C+AI+Builder;NASA+Space+Apps+Challenge+Winner+%F0%9F%8F%85;Smart+India+Hackathon+Grand+Finalist+%F0%9F%8E%AF;DPIIT+Recognized+Startup+Founder+%F0%9F%9A%80;Director+%40+Webdpro+Solutions+Pvt.+Ltd.)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/dp9966" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/DurgaPrashad" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/durgaprashadreddy9966/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="mailto:durga.proups@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/cec27a10-4b6a-48ce-a75a-2bd5ff198f90" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</a>
+<div align="center">
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=DurgaPrashad&color=7b61ff&style=flat-square&label=Profile+Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dp9966)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/durgaprashadreddy9966/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durga.proups@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Cloud%20Skills-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/cec27a10-4b6a-48ce-a75a-2bd5ff198f90)
+
+<br/>
+
+![Visitor](https://komarev.com/ghpvc/?username=DurgaPrashad&color=7b61ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -29,224 +30,244 @@
 
 <div align="center">
 
-## Recognition & Achievements
+## 🏆 &nbsp; Recognition & Achievements
 
 </div>
 
-<table align="center" width="90%">
-  <tr>
-    <td align="center" width="50px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nasa/nasa-plain.svg" width="36" onerror="this.style.display='none'"/>
-    </td>
-    <td><strong>NASA Space Apps Challenge — Winner</strong><br/><sub>Local Impact Category · 2024</sub></td>
-    <td align="center" width="50px">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="30"/>
-    </td>
-    <td><strong>Smart India Hackathon — Grand Finalist</strong><br/><sub>Ministry of Education, Govt. of India · 2023</sub></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="30"/>
-    </td>
-    <td><strong>DPIIT Startup India — Recognized Startup</strong><br/><sub>Webdpro Solutions Pvt. Ltd. · Govt. of India</sub></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="30"/>
-    </td>
-    <td><strong>Google Cloud Agentic AI Hackathon — Participant</strong><br/><sub>Guinness World Record Hackathon · 2025</sub></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="30"/>
-    </td>
-    <td><strong>SIH Evaluator — Smart India Hackathon</strong><br/><sub>Assessed & Mentored Student Teams · 2025</sub></td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" width="30"/>
-    </td>
-    <td><strong>ISRO Bharatiya Antariksh Hackathon</strong><br/><sub>Space Technology Innovation · 2024 & 2025</sub></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="30"/>
-    </td>
-    <td><strong>Microsoft Azure & Git Hackathon</strong><br/><sub>Earned GitHub Copilot Access</sub></td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="30"/>
-    </td>
-    <td><strong>Google Cloud Facilitator</strong><br/><sub>Guided students in Cloud Technologies · 2022–Present</sub></td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" width="300px" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px;">
+<img src="https://skillicons.dev/icons?i=nasa" width="40" onerror="this.src='https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white'"/>
+<br/><br/>
+<b>🥇 NASA Space Apps Challenge</b><br/>
+<sub>Winner · Local Impact Category · 2024</sub>
+</td>
+<td align="center" width="300px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png" width="40"/>
+<br/><br/>
+<b>🎯 Smart India Hackathon</b><br/>
+<sub>Grand Finalist · Ministry of Education, Govt. of India · 2023</sub>
+</td>
+<td align="center" width="300px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png" width="40"/>
+<br/><br/>
+<b>🇮🇳 DPIIT Startup India</b><br/>
+<sub>Govt. Recognized Startup · Webdpro Solutions Pvt. Ltd.</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp" width="40"/>
+<br/><br/>
+<b>🌍 Google Cloud Agentic AI</b><br/>
+<sub>Guinness World Record Hackathon Participant · 2025</sub>
+</td>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ISRO_logo.svg/40px-ISRO_logo.svg.png" width="40" onerror="this.src='https://img.shields.io/badge/ISRO-000080?style=flat-square&logoColor=white'"/>
+<br/><br/>
+<b>🛰️ ISRO Bharatiya Antariksh Hackathon</b><br/>
+<sub>Space Technology Innovation · 2024 & 2025</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=azure" width="40"/>
+<br/><br/>
+<b>⚡ SIH Evaluator & Mentor</b><br/>
+<sub>Smart India Hackathon · Assessed Student Teams · 2025</sub>
+</td>
+</tr>
 </table>
 
 ---
 
-## About
+## 👤 &nbsp; About
 
-Computer Science professional and entrepreneur building AI-powered products that solve real-world problems. Co-founded **Webdpro Solutions Pvt. Ltd.** — a DPIIT-recognized startup — and shipped products across health AI, financial intelligence, air quality monitoring, and e-commerce automation.
+Computer Science professional and founder who builds AI-powered products at the intersection of real-world impact and scalable engineering. Co-founded **Webdpro Solutions Pvt. Ltd.** — a DPIIT-recognized startup — and shipped live products in health AI, financial intelligence, satellite monitoring, and e-commerce automation.
 
-```
-Director @ Webdpro Solutions Pvt. Ltd.    ·    Co-Founder @ Proups    ·    Open to Collaboration
+```yaml
+Current Role   :  Director @ Webdpro Solutions Pvt. Ltd.
+Also Known As  :  Co-Founder @ Proups
+Focus Areas    :  Full Stack · AI/ML · Cloud Architecture · Cybersecurity
+Open To        :  Collaborations · Hackathons · Open Source
 ```
 
 ---
 
-## Tech Stack
+## ⚡ &nbsp; Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="42" title="Dart"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" title="SQL / MySQL"/>
+[![Languages](https://skillicons.dev/icons?i=python,js,java,cpp,dart,html,css,mysql&perline=8)](https://skillicons.dev)
 
-### Frontend & Backend
+**Frontend & Backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="42" title="Angular"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" title="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="42" title="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="42" title="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="42" title="GraphQL"/>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,django,flask,bootstrap&perline=8)](https://skillicons.dev)
 
-### AI & Machine Learning
+[![More Backend](https://skillicons.dev/icons?i=graphql,tailwind,flutter,fastapi&perline=8)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="42" title="OpenCV"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" title="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter"/>
+**AI & Machine Learning**
 
-### Cloud & DevOps
+[![AI Stack](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=8)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="42" title="Google Cloud"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" title="Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42" title="Kubernetes"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="42" title="Terraform"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="42" title="Jenkins"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="42" title="Ansible"/>
+**Cloud & DevOps**
 
-### Databases & Tools
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,ansible&perline=8)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" title="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="42" title="Postman"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="42" title="Selenium"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="42" title="Jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" title="GitHub"/>
+**Databases & Tools**
+
+[![Tools](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postman,selenium,jira,git,github&perline=8)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Projects
+## 🚀 &nbsp; Projects
 
-### Yosa — AI Health Risk Prediction &nbsp; `Live`
-> `Python` · `CatBoost` · `React` · `Vercel`
+<table width="100%">
+<tr>
 
-Analyzes **100,000+ patient records** with a CatBoost gradient boosting model achieving **95% accuracy** on diabetes risk prediction. Features interactive risk calculators, population-level dashboards, interpretable feature attribution (HbA1c, glucose, BMI, blood pressure), and AI-generated lifestyle recommendations — built as a privacy-first wellness tool.
+<td width="50%" valign="top">
 
-[![→ yosa-taupe.vercel.app](https://img.shields.io/badge/→%20yosa--taupe.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://yosa-taupe.vercel.app/)
+### 🧬 &nbsp; Yosa — AI Health Risk Prediction
+![Status](https://img.shields.io/badge/●%20LIVE-00d26a?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20·%20CatBoost%20·%20React-1a1a2e?style=flat-square)
+
+Analyzes **100,000+ patient records** using CatBoost gradient boosting with **95% accuracy** on diabetes risk. Interactive risk calculators, population dashboards, and AI-generated lifestyle recommendations — privacy-first.
+
+[![→ Live Site](https://img.shields.io/badge/→%20yosa--taupe.vercel.app-7b61ff?style=for-the-badge&logo=vercel&logoColor=white)](https://yosa-taupe.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 &nbsp; Webdpro AI — Prompt-to-Ecommerce SaaS
+![Status](https://img.shields.io/badge/●%20LIVE-00d26a?style=flat-square)
+![Stack](https://img.shields.io/badge/AWS%20Bedrock%20·%20Next.js%20·%20Razorpay-1a1a2e?style=flat-square)
+
+Transforms a plain-language idea into a **fully deployed online store in minutes** — AI handles design, images, inventory, payments, delivery, and analytics on a serverless AWS stack.
+
+[![→ Webdpro](https://img.shields.io/badge/→%20webdpro.ai-7b61ff?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💰 &nbsp; Finxan — AI Financial Dashboard
+![Status](https://img.shields.io/badge/●%20LIVE-00d26a?style=flat-square)
+![Stack](https://img.shields.io/badge/React%20·%20Node.js%20·%20MongoDB-1a1a2e?style=flat-square)
+
+AI-powered financial intelligence for individuals and businesses. Tracks expenses, builds budgets, and surfaces personalized insights from spending pattern analysis.
+
+[![→ finxan.com](https://img.shields.io/badge/→%20finxan.com-7b61ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.finxan.com/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 &nbsp; PROGALIX — Satellite Air Quality Monitor
+![Status](https://img.shields.io/badge/●%20LIVE-00d26a?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20·%20ML%20·%20NASA%20TEMPO%20·%20GIS-1a1a2e?style=flat-square)
+
+Advanced air quality intelligence powered by **NASA TEMPO satellite data**, live weather feeds, and ML models for predicting regional air safety conditions.
+
+[![→ progalix.earth](https://img.shields.io/badge/→%20progalix.earth-7b61ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.progalix.earth/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 &nbsp; ProInternz — Internship Platform
+![Status](https://img.shields.io/badge/●%20COMPLETED-4fc3f7?style=flat-square)
+![Stack](https://img.shields.io/badge/MERN%20Stack%20·%20Node.js%20·%20MongoDB-1a1a2e?style=flat-square)
+
+Connects students to virtual internships across Web Dev, ML, and Data Science. Hosts coding contests, idea challenges, and issues verifiable e-certificates.
+
+[![→ prointernz-ai.vercel.app](https://img.shields.io/badge/→%20prointernz--ai.vercel.app-7b61ff?style=for-the-badge&logo=vercel&logoColor=white)](https://prointernz-ai.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📦 &nbsp; ProMult — Amazon MCF Integration
+![Status](https://img.shields.io/badge/●%20COMPLETED-4fc3f7?style=flat-square)
+![Stack](https://img.shields.io/badge/Node.js%20·%20Amazon%20MCF%20API%20·%20React-1a1a2e?style=flat-square)
+
+Plugs small businesses into Amazon's Multi-Channel Fulfillment network. Full MCF API integration with real-time multi-channel order management and scalable backend.
+
+[![→ GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad/Amazon--Promult)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ &nbsp; ProExtract — Vulnerability Tracker
+![Status](https://img.shields.io/badge/●%20COMPLETED-4fc3f7?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20·%20Selenium%20·%20Flask%20·%20MongoDB-1a1a2e?style=flat-square)
+
+Automated CVE tracking for OEM IT/OT equipment. Scrapes security advisories, classifies critical/high-severity CVEs, delivers real-time alerts and structured reports.
+
+[![→ GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad/proExtract)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗺️ &nbsp; Proverse — Community Mapping System
+![Status](https://img.shields.io/badge/●%20COMPLETED-4fc3f7?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20·%20Leaflet.js%20·%20GIS%20APIs%20·%20ML-1a1a2e?style=flat-square)
+
+AI/ML civic platform using GIS for real-time community data visualization, voice recognition, and urban planning insights. **Recognized at NASA Space Apps Challenge.**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ &nbsp; Pro-gect — Object Detection Model
+![Status](https://img.shields.io/badge/●%20COMPLETED-4fc3f7?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20·%20TensorFlow%20·%20OpenCV-1a1a2e?style=flat-square)
+
+Real-time computer vision model for multi-object classification from diverse input sources, integrated with major ML frameworks.
+
+[![→ GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DurgaPrashad/Progect-detector)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 &nbsp; ProTranslator — Document Translation
+![Status](https://img.shields.io/badge/●%20COMPLETED-4fc3f7?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20·%20NLP%20·%20Flask%20·%20React-1a1a2e?style=flat-square)
+
+End-to-end document processing engine with speech-to-text input, multi-format file support, and real-time translation across languages using advanced NLP/ML pipelines.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Webdpro AI — Prompt-to-Ecommerce SaaS &nbsp; `Live`
-> `AWS Bedrock` · `Next.js` · `Razorpay` · `Serverless`
-
-Turns a plain-language business idea into a fully deployed online store in minutes. AI handles design generation, image creation, inventory setup, payment integration, delivery configuration, and analytics — zero engineering required from the business owner.
-
----
-
-### Finxan — AI Financial Intelligence Dashboard &nbsp; `Live`
-> `React` · `Node.js` · `MongoDB`
-
-Personal and business financial dashboard with AI-driven expense tracking, budget analysis, and spending pattern visualization. Delivers personalized insights to drive smarter financial decisions.
-
-[![→ finxan.com](https://img.shields.io/badge/→%20finxan.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.finxan.com/)
-
----
-
-### PROGALIX — Satellite Air Quality Monitoring &nbsp; `Live`
-> `Python` · `ML` · `NASA TEMPO Satellite` · `GIS`
-
-Advanced air quality intelligence platform powered by NASA TEMPO satellite data, live weather feeds, and machine learning models — predicting cleaner, safer sky conditions at a regional level.
-
-[![→ progalix.earth](https://img.shields.io/badge/→%20progalix.earth-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.progalix.earth/)
-
----
-
-### ProInternz — Internship & Skills Platform &nbsp; `Completed`
-> `MERN Stack` · `Node.js` · `MongoDB`
-
-Connects students to virtual internships across Web Dev, App Dev, ML, and Data Science. Hosts ProCoding contests, IdeaPro challenges, and issues verifiable e-certificates — bridging the gap between campus learning and industry skills.
-
-[![→ prointernz-ai.vercel.app](https://img.shields.io/badge/→%20prointernz--ai.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://prointernz-ai.vercel.app/)
-
----
-
-### ProMult — Amazon MCF Integration &nbsp; `Completed`
-> `Node.js` · `Amazon MCF API` · `React`
-
-Enables small businesses to plug into Amazon's Multi-Channel Fulfillment network. Full MCF API integration with real-time multi-channel order management and a scalable backend architecture designed for growth.
-
-[![→ GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/DurgaPrashad/Amazon--Promult)
-
----
-
-### ProExtract — Vulnerability Intelligence Tracker &nbsp; `Completed`
-> `Python` · `Selenium` · `Flask` · `MongoDB`
-
-Automated security advisory tracking system for OEM IT/OT equipment. Scrapes vendor advisories, classifies critical and high-severity CVEs, sends real-time alerts, and generates structured vulnerability reports for security teams.
-
-[![→ GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/DurgaPrashad/proExtract)
-
----
-
-### Proverse — AI Community Mapping System &nbsp; `Completed`
-> `Python` · `Leaflet.js` · `ML` · `GIS APIs`
-
-AI/ML-powered civic platform using GIS for real-time community data visualization, voice recognition input, and urban planning insights. Recognized by **NASA Space Apps Challenge** for its local impact.
-
----
-
-### Pro-gect — Real-Time Object Detection &nbsp; `Completed`
-> `Python` · `TensorFlow` · `OpenCV`
-
-Computer vision model for live multi-object classification from diverse input sources, integrated with leading ML frameworks.
-
-[![→ GitHub](https://img.shields.io/badge/→%20View%20on%20GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/DurgaPrashad/Progect-detector)
-
----
-
-### ProTranslator — Multi-Language Document Engine &nbsp; `Completed`
-> `Python` · `NLP` · `Flask` · `React`
-
-End-to-end document processing with speech-to-text input, multi-format file handling, and real-time translation across languages using advanced NLP/ML pipelines.
-
----
-
-## Certifications
+## 📜 &nbsp; Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DPIIT-Startup%20India%20Recognized-FF9933?style=for-the-badge&logo=india&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft-Generative%20AI%20Essentials-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-IT%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Atlassian-Agile%20with%20Jira-0052CC?style=for-the-badge&logo=atlassian&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-CRM%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursera-Project%20Management%20Basics-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+![DPIIT](https://img.shields.io/badge/DPIIT%20Startup%20India%20Recognized-FF9933?style=for-the-badge&logo=india&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft%20Generative%20AI%20Essentials-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20Data%20Science%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Google](https://img.shields.io/badge/Google%20IT%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Agile%20with%20Jira%20–%20Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce%20CRM%20Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Coursera](https://img.shields.io/badge/Project%20Management%20–%20UC%20Irvine-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
 </div>
 
@@ -256,6 +277,8 @@ End-to-end document processing with speech-to-text input, multi-format file hand
 
 *Building technology that creates real impact.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=120&section=footer" width="100%"/>
 
 </div>
