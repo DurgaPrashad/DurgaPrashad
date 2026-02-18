@@ -42,7 +42,7 @@
 <tr>
 
 <td align="center" width="24%" style="border:1.5px solid #30a46c; border-radius:10px; padding:18px 10px">
-<img src="https://raw.githubusercontent.com/DurgaPrashad/DurgaPrashad/main/assets/nasa.png" width="68" alt="NASA"/><br/><br/>
+<img src="https://tse4.mm.bing.net/th/id/OIP.zFVHNGDyixMma2OGtZo94QAAAA?w=260&h=218&rs=1&pid=ImgDetMain&o=7&rm=3" width="68" alt="NASA"/><br/><br/>
 <b><code style="color:#4ade80">🥇 NASA Space Apps</code></b><br/>
 <b>Challenge — Winner</b><br/>
 <sub>Local Impact Category · 2024</sub>
