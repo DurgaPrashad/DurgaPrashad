@@ -143,6 +143,36 @@ Open To      :  Collaborations · Hackathons · Open Source
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 
 <tr>
+
+<td width="48%" valign="top" align="left" style="border:2px solid #22c55e; border-radius:12px; padding:20px 18px; background:#0c1220;">
+
+### 📞 &nbsp; DialGrow — AI Voice Calling Platform
+![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square&logoColor=white)
+&nbsp;&nbsp;
+`Python` `React` `LiveKit` `Deepgram` `Groq`
+
+Enterprise AI calling platform for **inbound & outbound voice agents**. Build multilingual AI callers, automate sales, support, lead qualification, appointment booking, follow-ups, campaigns, analytics, and CRM integrations with real-time conversations and human-like voice AI.
+
+[![→ dialgrow.com](https://img.shields.io/badge/%E2%86%92%20dialgrow.com-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dialgrow.com/)
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top" align="left" style="border:2px solid #38bdf8; border-radius:12px; padding:20px 18px; background:#0c1220;">
+
+### 🐝 &nbsp; Waspid — Enterprise AI Workforce Platform
+![LIVE](https://img.shields.io/badge/●%20LIVE-00C853?style=flat-square&logoColor=white)
+&nbsp;&nbsp;
+`Python` `React` `AI Agents` `Workflows`
+
+Build, deploy, and orchestrate **autonomous AI agents** through a visual workflow platform. Connect LLMs, tools, APIs, knowledge bases, memory, MCP servers, and multi-agent systems to automate complex enterprise workflows with real-time monitoring and collaboration.
+
+[![→ waspid.com](https://img.shields.io/badge/%E2%86%92%20waspid.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://waspid.com/)
+
+</td>
+
+<tr>
 <td width="48%" valign="top" align="left" style="border:2px solid #38bdf8; border-radius:12px; padding:20px 18px; background:#0c1220;">
 
 ### 🧬 &nbsp; Yosa — AI Health Risk Prediction
