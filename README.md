@@ -34,7 +34,9 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="62" alt="SIH"/><br/><br/>
+<img src="https://github.com/user-attachments/assets/3ce42c0c-1a34-4bb5-8a89-18b8675a554f" width="60" alt="Logo"/>
+
+ 
 <b>🎯 Smart India Hackathon</b><br/>
 <b>Grand Finalist</b><br/>
 <sub>Ministry of Education · 2023</sub>
@@ -107,7 +109,7 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="52" alt="SIH"/><br/><br/>
+<img src="https://github.com/user-attachments/assets/3ce42c0c-1a34-4bb5-8a89-18b8675a554f" width="60" alt="Logo"/>
 <b>🧑‍⚖️ Smart India Hackathon</b><br/>
 <b>Evaluator & Mentor</b><br/>
 <sub>National Hackathon · 2025</sub>
