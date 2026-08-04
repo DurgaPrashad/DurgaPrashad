@@ -34,7 +34,7 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://github.com/user-attachments/assets/3ce42c0c-1a34-4bb5-8a89-18b8675a554f" width="60" alt="Logo"/>
+<img src="https://github.com/user-attachments/assets/3d38ad22-46a6-4322-9f55-781e9b7c7855" width="60" alt="Logo"/>
 
  
 <b>🎯 Smart India Hackathon</b><br/>
