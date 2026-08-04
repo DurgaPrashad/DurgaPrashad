@@ -75,7 +75,11 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #D97706; border-radius:10px; padding:18px 10px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Anthropic_logo.svg" width="60" alt="Anthropic"/><br/><br/>
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/774839f1-245d-4771-8497-9c122660b78d" />
+
+
+  
 <b>🤖 Claude / Anthropic</b><br/>
 <b>Agentic AI Hackathon</b><br/>
 <sub>In-Person Event · 2025</sub>
