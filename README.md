@@ -111,7 +111,8 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="62" alt="SIH"/><br/><br/>
+<img src="https://github.com/user-attachments/assets/7446bb84-d7a3-4c3e-b7e5-11496e9230a8" width="60" alt="Logo"/>
+
 <b>🧑‍⚖️ Smart India Hackathon</b><br/>
 <b>Evaluator & Mentor</b><br/>
 <sub>National Hackathon · 2025</sub>
