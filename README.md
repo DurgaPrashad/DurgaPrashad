@@ -48,7 +48,8 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #fb923c; border-radius:10px; padding:18px 10px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Indian_Space_Research_Organisation_Logo.svg" width="62" alt="ISRO"/><br/><br/>
+<img src="https://github.com/user-attachments/assets/0e32364e-07a1-4a2e-9e88-8cd7028b8b28" width="60" alt="Logo"/>
+
 <b>🛰️ ISRO Bharatiya Antariksh</b><br/>
 <b>Hackathon Participant</b><br/>
 <sub>Space Technology · 2024 & 2025</sub>
@@ -85,7 +86,8 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #0078D4; border-radius:10px; padding:18px 10px">
-<img src="https://skillicons.dev/icons?i=azure" width="52" alt="Microsoft"/><br/><br/>
+<img src="https://github.com/user-attachments/assets/0edd6407-098e-47e6-ad71-580fe1d5208f" width="60" alt="Logo"/>
+
 <b>☁️ Microsoft</b><br/>
 <b>Agentic Development Lifecycle</b><br/>
 <sub>ADLC Implementation · Waspid</sub>
