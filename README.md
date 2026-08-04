@@ -102,7 +102,10 @@
 <tr>
 
 <td align="center" width="24%" style="border:1.5px solid #FF9900; border-radius:10px; padding:18px 10px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" alt="AWS"/><br/><br/>
+
+
+ <img src="https://github.com/user-attachments/assets/2a5b2822-50c2-4b99-a745-7f179c095227" width="60" alt="Logo"/>
+
 <b>🚀 Amazon Web Services</b><br/>
 <b>Cloud Infrastructure</b><br/>
 <sub>Cloud Scaling & AI Services</sub>
