@@ -66,9 +66,9 @@
 <td align="center" width="24%" style="border:1.5px solid #76B900; border-radius:10px; padding:18px 10px">
 <img src="https://github.com/user-attachments/assets/7e560f31-a2fc-492e-9273-2c0066da7b8c" height="60" alt="Logo"/>
 
-<b>🟢 NVIDIA</b><br/>
+
 <b>AI Hardware & Agentic Compute</b><br/>
-<sub>Developer Program · 2025</sub>
+<sub>Developer Program · 2026</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #4285F4; border-radius:10px; padding:18px 10px">
