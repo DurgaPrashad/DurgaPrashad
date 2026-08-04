@@ -23,74 +23,107 @@
 </div>
 
 <table align="center" width="96%">
+
 <tr>
 
 <td align="center" width="24%" style="border:1.5px solid #30a46c; border-radius:10px; padding:18px 10px">
-<img src="https://th.bing.com/th/id/R.dfe000c4d39e10adeac73e968d0081c0?rik=2qecWrg5GwkLaA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnasa-logo-png-nasa-logo-1664.png&ehk=d%2bgvuoNz%2b0udsBSxL%2bAGF0N%2f1tWoj4H6GaKOJhRCIyQ%3d&risl=&pid=ImgRaw&r=0" width="68" alt="NASA"
-  onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png'"/><br/><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="68" alt="NASA"/><br/><br/>
 <b>🥇 NASA Space Apps Challenge</b><br/>
-<b>Winner</b><br/>
-<sub>Local Impact Category · 2024 & 2025</sub>
+<b>Local Impact Winner</b><br/>
+<sub>2024 & 2025</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://yt3.ggpht.com/a/AGF-l7-lMMFxQrGg7DIcGPmGvrwkZKlnjVpsqCtxgA=s900-c-k-c0xffffffff-no-rj-mo" width="62" alt="SIH"
-  onerror="this.src='https://iic.iitbhilai.ac.in/images/SIH2.png'"/><br/><br/>
+<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="62" alt="SIH"/><br/><br/>
 <b>🎯 Smart India Hackathon</b><br/>
 <b>Grand Finalist</b><br/>
-<sub>MoE Govt. of India · 2023</sub>
+<sub>Ministry of Education · 2023</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
-<img src="https://cdn.prod.website-files.com/64afb26dde3a7b4d2e104692/65a5117f58e85e19b3f39a08_DPIIT-logo-trans.png" width="64" alt="DPIIT"
-  onerror="this.src='https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/80px-Flag_of_India.svg.png'"/><br/><br/>
-<b>🇮🇳 DPIIT Startup India</b><br/>
+<img src="https://cdn.prod.website-files.com/64afb26dde3a7b4d2e104692/65a5117f58e85e19b3f39a08_DPIIT-logo-trans.png" width="64" alt="DPIIT"/><br/><br/>
+<b>🇮🇳 Startup India (DPIIT)</b><br/>
 <b>Recognized Startup</b><br/>
-<sub>Webdpro Solutions Pvt. Ltd.</sub>
+<sub>WebDPro Solutions Pvt. Ltd.</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #fb923c; border-radius:10px; padding:18px 10px">
-<img src="https://wiki.fed-space.com/images/6/66/ISRO_logo.png" width="62" alt="ISRO"
-  onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Indian_Space_Research_Organisation_Logo.svg/160px-Indian_Space_Research_Organisation_Logo.svg.png'"/><br/><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Indian_Space_Research_Organisation_Logo.svg" width="62" alt="ISRO"/><br/><br/>
 <b>🛰️ ISRO Bharatiya Antariksh</b><br/>
 <b>Hackathon Participant</b><br/>
 <sub>Space Technology · 2024 & 2025</sub>
 </td>
 
 </tr>
+
 <tr><td colspan="4">&nbsp;</td></tr>
+
 <tr>
 
-<td align="center" style="border:1.5px solid #30a46c; border-radius:10px; padding:18px 10px">
-<img src="https://www.pngplay.com/wp-content/uploads/13/Google-Logo-PNG-HD-Quality.png" width="52" alt="Google Cloud"/><br/><br/>
-<b>🌐 Google Cloud Agentic AI</b><br/>
+<td align="center" width="24%" style="border:1.5px solid #76B900; border-radius:10px; padding:18px 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="60" alt="NVIDIA"/><br/><br/>
+<b>🟢 NVIDIA</b><br/>
+<b>AI Hardware & Agentic Compute</b><br/>
+<sub>Developer Program · 2025</sub>
+</td>
+
+<td align="center" width="24%" style="border:1.5px solid #4285F4; border-radius:10px; padding:18px 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="60" alt="Google"/><br/><br/>
+<b>🌐 Google Agentic AI</b><br/>
 <b>Hackathon Participant</b><br/>
 <sub>Guinness World Record · 2025</sub>
 </td>
 
-<td align="center" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://skillicons.dev/icons?i=azure" width="52" alt="Azure"/><br/><br/>
-<b>⚡ Microsoft Azure & Git</b><br/>
-<b>Hackathon 2023</b><br/>
-<sub>Earned GitHub Copilot Access</sub>
+<td align="center" width="24%" style="border:1.5px solid #D97706; border-radius:10px; padding:18px 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Anthropic_logo.svg" width="60" alt="Anthropic"/><br/><br/>
+<b>🤖 Claude / Anthropic</b><br/>
+<b>Agentic AI Hackathon</b><br/>
+<sub>In-Person Event · 2025</sub>
 </td>
 
-<td align="center" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
-<img src="https://yt3.ggpht.com/a/AGF-l7-lMMFxQrGg7DIcGPmGvrwkZKlnjVpsqCtxgA=s900-c-k-c0xffffffff-no-rj-mo" width="52" alt="SIH"
-  onerror="this.src='https://iic.iitbhilai.ac.in/images/SIH2.png'"/><br/><br/>
-<b>🧑‍⚖️ SIH Evaluator 2025</b><br/>
-<b>Evaluator & Mentor</b><br/>
-<sub>Assessed Student Teams</sub>
-</td>
-
-<td align="center" style="border:1.5px solid #fb923c; border-radius:10px; padding:18px 10px">
-<img src="https://skillicons.dev/icons?i=gcp" width="52" alt="Google Cloud"/><br/><br/>
-<b>☁️ Google Cloud Facilitator</b><br/>
-<b>Student Workshops</b><br/>
-<sub>Cloud Technologies · 2022</sub>
+<td align="center" width="24%" style="border:1.5px solid #0078D4; border-radius:10px; padding:18px 10px">
+<img src="https://skillicons.dev/icons?i=azure" width="52" alt="Microsoft"/><br/><br/>
+<b>☁️ Microsoft</b><br/>
+<b>Agentic Development Lifecycle</b><br/>
+<sub>ADLC Implementation · Waspid</sub>
 </td>
 
 </tr>
+
+<tr><td colspan="4">&nbsp;</td></tr>
+
+<tr>
+
+<td align="center" width="24%" style="border:1.5px solid #FF9900; border-radius:10px; padding:18px 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" alt="AWS"/><br/><br/>
+<b>🚀 Amazon Web Services</b><br/>
+<b>Cloud Infrastructure</b><br/>
+<sub>Cloud Scaling & AI Services</sub>
+</td>
+
+<td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
+<img src="https://iic.iitbhilai.ac.in/images/SIH2.png" width="52" alt="SIH"/><br/><br/>
+<b>🧑‍⚖️ Smart India Hackathon</b><br/>
+<b>Evaluator & Mentor</b><br/>
+<sub>National Hackathon · 2025</sub>
+</td>
+
+<td align="center" width="24%" style="border:1.5px solid #34A853; border-radius:10px; padding:18px 10px">
+<img src="https://skillicons.dev/icons?i=gcp" width="52" alt="Google Cloud"/><br/><br/>
+<b>☁️ Google Cloud</b><br/>
+<b>Facilitator</b><br/>
+<sub>Cloud Workshops · 2022</sub>
+</td>
+
+<td align="center" width="24%" style="border:1.5px solid #0078D4; border-radius:10px; padding:18px 10px">
+<img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/><br/><br/>
+<b>⚡ Microsoft x GitHub</b><br/>
+<b>Azure Hackathon</b><br/>
+<sub>GitHub Copilot Access · 2023</sub>
+</td>
+
+</tr>
+
 </table>
 
 ---
