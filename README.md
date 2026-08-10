@@ -83,7 +83,7 @@
   
 <b>🤖 Claude / Anthropic</b><br/>
 <b>Agentic AI Hackathon</b><br/>
-<sub>In-Person Event · 2025</sub>
+<sub>In-Person Event · 2026</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #0078D4; border-radius:10px; padding:18px 10px">
