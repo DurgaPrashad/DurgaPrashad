@@ -111,7 +111,9 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://github.com/user-attachments/assets/f8679080-8892-4ea1-8b9a-a33c7e603599" width="60" alt="Logo"/>
+<img src="https://github.com/user-attachments/assets/edf8a951-b08e-45a0-b698-b52db9d30b95" width="60" alt="Logo"/>
+
+
 
 <b>🧑‍⚖️ OPEN AI </b><br/>
 <b>Codex Hackathon</b><br/>
