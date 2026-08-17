@@ -37,8 +37,8 @@
 <img src="https://github.com/user-attachments/assets/3d38ad22-46a6-4322-9f55-781e9b7c7855" width="60" alt="Logo"/>
 
  
-<b>🎯 Smart India Hackathon</b><br/>
-<b>Grand Finalist</b><br/>
+<b>🎯 SIH</b><br/>
+<b>Grand Finalist & Evaluator </b><br/>
 <sub>Ministry of Education · 2023</sub>
 </td>
 
