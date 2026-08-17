@@ -39,7 +39,7 @@
  
 <b>🎯 SIH</b><br/>
 <b>Grand Finalist & Evaluator </b><br/>
-<sub>Ministry of Education · 2023</sub>
+<sub>Ministry of Education · 2023 · 2025</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #f87171; border-radius:10px; padding:18px 10px">
@@ -111,12 +111,11 @@
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #3b82f6; border-radius:10px; padding:18px 10px">
-<img src="https://github.com/user-attachments/assets/3d38ad22-46a6-4322-9f55-781e9b7c7855" width="60" alt="Logo"/>
+<img src="https://github.com/user-attachments/assets/f8679080-8892-4ea1-8b9a-a33c7e603599" width="60" alt="Logo"/>
 
-
-<b>🧑‍⚖️ Smart India Hackathon</b><br/>
-<b>Evaluator & Mentor</b><br/>
-<sub>National Hackathon · 2025</sub>
+<b>🧑‍⚖️ OPEN AI </b><br/>
+<b>Codex Hackathon</b><br/>
+<sub>Top 3% · 2026</sub>
 </td>
 
 <td align="center" width="24%" style="border:1.5px solid #34A853; border-radius:10px; padding:18px 10px">
